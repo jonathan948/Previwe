@@ -1,0 +1,52 @@
+
+body{
+    
+}
+
+.container{
+    background-color:  hsl(212, 23%, 69%);
+}
+
+@media(max-width: 375px){
+    .drawers{
+        width: 112%;
+        position: relative;
+        right: 6%;
+    }
+    .Michelle {
+    margin-top: 50px;
+    }
+}
+
+@media(max-width: 411px){
+    .drawers{
+        width: 112%;
+        position: relative;
+        right: 6%;
+    }
+}
+
+@media(max-width: 414px){
+    .drawers{
+        width: 112%;
+        position: relative;
+        right: 6%;
+    }
+}
+
+@media(max-width: 540px){
+    .drawers{
+        width: 112%;
+        position: relative;
+        right: 6%;
+    }
+}
+
+@media(max-width: 768px){
+    .drawers{
+        width: 107%;
+        position: relative;
+        right: 4%;
+        /* height: 700px; */
+    }
+}
